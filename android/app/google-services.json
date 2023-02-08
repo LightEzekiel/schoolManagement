@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "618471527452",
+    "project_id": "phrankstarmanagement",
+    "storage_bucket": "phrankstarmanagement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618471527452:android:14096a013d38e113c33bd9",
+        "android_client_info": {
+          "package_name": "com.potentnetwork.phrankstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618471527452-oibmh8dvscbuebd41voiliujits4bc51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDeiIWPpS6vhh858SDyNJznpx5zC1YgeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618471527452-oibmh8dvscbuebd41voiliujits4bc51.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618471527452-efbqroatagck5hoqjglerqtsmvjc3eme.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.potentnetwork.phrankstar.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
